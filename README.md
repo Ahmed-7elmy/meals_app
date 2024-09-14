@@ -1,10 +1,11 @@
 # MEALS_APP
+## web_APP link     https://66e5c049273d2d97de67cf79--gleaming-kheer-c83ab1.netlify.app/
+# About
+A versatile Flutter app powered by RiverPod for state management. It enables users to explore, manage, and filter meals, including dietary preferences like vegan, vegetarian, and gluten-free. The app offers a user-friendly experience with a bottom tab bar and a side drawer for filter access. It's fully responsive on Android and iOS.
 
-A new Flutter project.
+this project was under Instructor Maximillian and Hassan Fullaih
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
